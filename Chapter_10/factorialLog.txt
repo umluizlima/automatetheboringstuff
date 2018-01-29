@@ -1,0 +1,14 @@
+ 2018-01-29 13:52:46,496 - DEBUG - Start of program
+ 2018-01-29 13:52:46,496 - DEBUG - Start of factorial(5)
+ 2018-01-29 13:52:46,497 - DEBUG - Start of factorial(4)
+ 2018-01-29 13:52:46,497 - DEBUG - Start of factorial(3)
+ 2018-01-29 13:52:46,497 - DEBUG - Start of factorial(2)
+ 2018-01-29 13:52:46,498 - DEBUG - Start of factorial(1)
+ 2018-01-29 13:52:46,524 - DEBUG - End of program
+ 2018-01-29 14:04:37,177 - DEBUG - Start of program
+ 2018-01-29 14:04:48,758 - DEBUG - Start of factorial(5)
+ 2018-01-29 14:05:00,230 - DEBUG - Start of factorial(4)
+ 2018-01-29 14:05:11,273 - DEBUG - Start of factorial(3)
+ 2018-01-29 14:05:15,288 - DEBUG - Start of factorial(2)
+ 2018-01-29 14:05:17,766 - DEBUG - Start of factorial(1)
+ 2018-01-29 14:05:36,028 - DEBUG - End of program
