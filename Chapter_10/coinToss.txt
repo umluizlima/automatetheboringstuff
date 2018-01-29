@@ -1,0 +1,4 @@
+ 2018-01-29 18:10:56,476 - DEBUG - Start of program
+ 2018-01-29 18:12:21,477 - DEBUG - Start of program
+ 2018-01-29 18:12:24,446 - DEBUG - Guess taken: (1)
+ 2018-01-29 18:12:26,149 - DEBUG - Guess taken: (2)
